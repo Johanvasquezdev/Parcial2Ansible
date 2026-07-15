@@ -54,5 +54,6 @@ server1 : ok=7 changed=5 unreachable=0 failed=0 skipped=0 rescued=0 ignored=0
 server2 : ok=7 changed=5 unreachable=0 failed=0 skipped=0 rescued=0 ignored=0
 ```
 
-> La captura se puede insertar asi: `!<img width="2454" height="688" alt="image" src="https://github.com/user-attachments/assets/1c75810e-33d0-4be5-b771-048add26a08f" />
+<img width="2454" height="688" alt="image" src="https://github.com/user-attachments/assets/e0468ac3-28ec-49ab-9dc6-b32a9ff547c4" />
+
 `.
