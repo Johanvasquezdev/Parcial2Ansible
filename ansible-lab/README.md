@@ -46,13 +46,7 @@ El playbook crea `/tmp/ansible-demo`, el archivo `info.txt` y los directorios `l
 
 ## Captura de ejecucion exitosa
 
-Ejecuta el playbook y agrega aqui una captura que muestre el resumen final sin fallos, por ejemplo:
 
-```text
-PLAY RECAP *********************************************************************
-server1 : ok=7 changed=5 unreachable=0 failed=0 skipped=0 rescued=0 ignored=0
-server2 : ok=7 changed=5 unreachable=0 failed=0 skipped=0 rescued=0 ignored=0
-```
 
 <img width="2454" height="688" alt="image" src="https://github.com/user-attachments/assets/e0468ac3-28ec-49ab-9dc6-b32a9ff547c4" />
 
